@@ -1,0 +1,1 @@
+This folder is used to store several programs written in Python that will draw circle, square and polygon
