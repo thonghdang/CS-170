@@ -1,0 +1,1 @@
+This folder store some misc programs that I worked by myself to learn the behavior of Python.
