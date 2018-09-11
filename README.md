@@ -1,2 +1,2 @@
 # CS-170
-programs from my Python class
+This repository store my programs for Python, both from my class and my own practice.
